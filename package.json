@@ -1,0 +1,19 @@
+{
+  "name": "preentrega1proyectofinalparracifuentes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.0",
+    "@babel/plugin-transform-property-mutators": "^7.22.15",
+    "@babel/preset-env": "^7.22.20"
+  }
+}
